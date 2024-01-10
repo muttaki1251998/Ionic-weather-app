@@ -1,0 +1,12 @@
+.ion-header {
+    text-align: center;
+}
+.ion-toolbar {
+    --background: none;
+    --ion-background-color: transparent;
+    color: black;
+}
+.home-content {
+    --background: none;
+    --ion-background-color: transparent;
+}
